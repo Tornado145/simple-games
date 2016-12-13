@@ -1,3 +1,3 @@
 # simple-games
-yo me so cool
-yeet
+This is a simple snake program.
+
