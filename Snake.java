@@ -5,6 +5,8 @@ public class Snake{
     private int y;
     private double length;
     private Color color;
-    
+    public Snake() {
+        
+    }
 
 }
